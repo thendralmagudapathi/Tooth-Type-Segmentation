@@ -1,0 +1,22 @@
+names:
+  0: '31'
+  1: '43'
+  2: '37'
+  3: '36'
+  4: '34'
+  5: '47'
+  6: '46'
+  7: '33'
+  8: '32'
+  9: '44'
+  10: '42'
+  11: '38'
+  12: '45'
+  13: '41'
+  14: '35'
+  15: '48'
+nc: 16
+path: C:/Users/thend/Desktop/Pratik/Lower_jaw/dataset_kag
+test: C:/Users/thend/Desktop/Pratik/Lower_jaw/dataset_kag\test/images
+train: C:/Users/thend/Desktop/Pratik/Lower_jaw/dataset_kag\train/images
+val: C:/Users/thend/Desktop/Pratik/Lower_jaw/dataset_kag\val/images
